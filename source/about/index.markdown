@@ -18,6 +18,7 @@ G&G是一个专注分享生活、学习、工作乐趣的团体，前身是泛�
 ### 成员
 
 (按加入顺序)
+
 + tomsheep
 + ccz (zhuhao)
 + ccx (mengxin)
@@ -33,7 +34,7 @@ G&G是一个专注分享生活、学习、工作乐趣的团体，前身是泛�
 
 原则上按这个循环：
 
-tomsheep, Bug, Arbipher, ccx, ccz, ccq, ccm, 宇宙, Ted
+tomsheep, Bug, Arbipher, ccx, ccz, cch, ccq, ccm, 宇宙, Ted
 
 欢迎插队。
 
