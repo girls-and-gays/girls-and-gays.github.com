@@ -1,115 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Girls and Gays</title>
-  <meta name="author" content="G&G">
-
-  
-  <meta name="description" content="主讲：ccm
-PPT下载：简明日本文化介绍.pptx
-音频下载：暂无 简介 在连续几期主讲跳票的大环境下，ccm同学表现抢眼，提前发布了预览版，令人耳目一新。周末主讲人或另有补充。 文稿 时代 &amp; 和服 本节介绍 日本朝代和和服 的一些简单知识 由于主讲人自己也不是很懂，请当做瞎扯。 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://girls-and-gays.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Girls and Gays" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-16543336-4']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Girls and Gays</a></h1>
-  
-    <h2>G&G沙龙活动记录</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:girls-and-gays.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">主页</a></li>
-  <li><a href="/blog/archives">历史记录</a></li>
-  <li><a href="/about/">关于G&G</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Girls and Gays]]></title>
+  <link href="http://girls-and-gays.github.io/atom.xml" rel="self"/>
+  <link href="http://girls-and-gays.github.io/"/>
+  <updated>2013-08-15T00:40:36+08:00</updated>
+  <id>http://girls-and-gays.github.io/</id>
+  <author>
+    <name><![CDATA[G&G]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/08/15/jp-culture/"><第6期>简明日本文化介绍（时代&和服）</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-08-15T00:00:00+08:00" pubdate data-updated="true">Aug 15<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第6期>简明日本文化介绍（时代&和服）]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/08/15/jp-culture/"/>
+    <updated>2013-08-15T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/08/15/jp-culture</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：ccm</p></li>
 <li><p>PPT下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvdWRHVUx0djd0N2s/edit?usp=sharing">简明日本文化介绍.pptx</a></p></li>
 <li><p>音频下载：暂无</p></li>
@@ -177,42 +86,15 @@ PPT下载：简明日本文化介绍.pptx
 <p>明治到昭和年间，已婚妇女广泛使用羽织。明治到大正年间流行到膝盖下的长羽织，昭和30年间流行仅遮住腰带的短羽织不管是怎样的服装，穿了羽织，礼服的味道就会加重，死神中的白身上那条白色布条也算是羽织的一种浴衣，是看起来很类似和服的一种休闲服饰，古时候，浴室是类似桑拿的蒸汽式，为避免烫伤，一般穿汤帷子入浴。用白话解释也就是下水用的围布。江户时代汤帷子改称浴衣。这两个词在日语里比较接近，请自行听一下发音之后，入浴形式改变，洗浴不再穿衣，浴衣就变成洗浴完毕、或是夏季休闲、祭典穿的简单衣服。</p>
 
 <p>相比浴衣，和服的均价一般是十倍以上，高档和服甚至需要几百万日元，而浴衣只需平均一万日元以下。当然也有贵的浴衣，一般来说，穿和服会搭配正式的发现，穿短布袜子，称足袋，有贴身内衬，称襦袢。浴衣则是一件单衣，赤脚着木屐。不过夏季的时候，也会出现改良的单层和服，不搭配袜子。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/08/09/credit-card/"><第5期>银行卡上的中国大学们</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-09T00:00:00+08:00" pubdate data-updated="true">Aug 9<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第5期>银行卡上的中国大学们]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/08/09/credit-card/"/>
+    <updated>2013-08-09T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/08/09/credit-card</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：ccz</p></li>
 <li><p>PPT下载：<a href="https://docs.google.com/file/d/0B_AUJgyXPiEtTmxZY21TdnNsLTA/edit?usp=sharing">银行卡上的中国大学们.pdf</a></p></li>
 <li><p>音频下载：暂无</p></li>
@@ -227,42 +109,15 @@ PPT下载：简明日本文化介绍.pptx
 <li>收藏</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/08/02/heuristics/"><番外篇-2>直觉的偏见</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-08-02T00:00:00+08:00" pubdate data-updated="true">Aug 2<span>nd</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<番外篇-2>直觉的偏见]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/08/02/heuristics/"/>
+    <updated>2013-08-02T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/08/02/heuristics</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：<a href="http://blog.tomsheep.net/about" title="tomsheep">tomsheep</a></p></li>
 <li><p>音频下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvcUNZVXBSUnVhamM/edit?usp=sharing" title="音频下载">heuristics-64kbps.mp3</a></p></li>
 </ul>
@@ -281,42 +136,15 @@ PPT下载：简明日本文化介绍.pptx
 <li>《思考，快与慢》 《信号与噪音》</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/21/dream/"><第4期>梦</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-07-21T00:00:00+08:00" pubdate data-updated="true">Jul 21<span>st</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第4期>梦]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/07/21/dream/"/>
+    <updated>2013-07-21T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/07/21/dream</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：ccx（mengxin）</p></li>
 <li><p>PPT下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvc1QycHU2WjZiTFE/edit?usp=sharing">梦.pptx</a></p></li>
 <li><p>音频下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvSHJTanFjdWs3d2M/edit?usp=sharing">梦.mov</a></p></li>
@@ -337,42 +165,15 @@ PPT下载：简明日本文化介绍.pptx
 <li>清醒梦</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/15/paradox-of-chioce/"><第3期>选择的悖论</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-07-15T00:00:00+08:00" pubdate data-updated="true">Jul 15<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第3期>选择的悖论]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/07/15/paradox-of-chioce/"/>
+    <updated>2013-07-15T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/07/15/paradox-of-chioce</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：Arbipher</p></li>
 <li><p>音频下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvdEhqRUNTZ2Vad2c/edit?usp=sharing">选择的悖论.mp3</a></p></li>
 </ul>
@@ -437,42 +238,15 @@ PPT下载：简明日本文化介绍.pptx
 <p>这本书叫选择的悖论。所谓悖论，一方面承认有选择意味这有自由，另一方面，选择给人带来痛苦。我的看法是，选择的痛苦的本质是人的局限性。就像王小波说过人会因为无能而愤怒。人会因为局限性而痛苦。这种痛苦是不可能完全解决的。选择造成的痛苦会可以用一些技巧性的方法降低。</p>
 
 <p>如果到此，你知道这本书大概说了些什么。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/07/complexity/"><第2期>外存复杂度</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-07-07T00:00:00+08:00" pubdate data-updated="true">Jul 7<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第2期>外存复杂度]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/07/07/complexity/"/>
+    <updated>2013-07-07T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/07/07/complexity</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：Bug</p></li>
 <li><p>PPT下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvZndhaXhJQjhtR2M/edit?usp=sharing" title="外存复杂度.ppt">外存复杂度.ppt</a></p></li>
 <li><p>音频下载：暂无</p></li>
@@ -491,42 +265,15 @@ PPT下载：简明日本文化介绍.pptx
 <li>B树</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/06/30/about-humor/"><番外篇-1>关于幽默</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-30T00:00:00+08:00" pubdate data-updated="true">Jun 30<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<番外篇-1>关于幽默]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/06/30/about-humor/"/>
+    <updated>2013-06-30T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/06/30/about-humor</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：<a href="http://blog.tomsheep.net/about" title="tomsheep">tomsheep</a></p></li>
 <li><p>音频下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvZzhpM09yclF2bDQ/edit?usp=sharing" title="音频下载">humor-64kbps.mp3</a></p></li>
 </ul>
@@ -543,42 +290,15 @@ PPT下载：简明日本文化介绍.pptx
 <li>关于相声</li>
 </ul>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/06/19/poem-reading-share/"><第1期>《迦陵说词讲稿》读书分享</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-19T00:00:00+08:00" pubdate data-updated="true">Jun 19<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><ul>
+  <entry>
+    <title type="html"><![CDATA[<第1期>《迦陵说词讲稿》读书分享]]></title>
+    <link href="http://girls-and-gays.github.io/blog/2013/06/19/poem-reading-share/"/>
+    <updated>2013-06-19T00:00:00+08:00</updated>
+    <id>http://girls-and-gays.github.io/blog/2013/06/19/poem-reading-share</id>
+    <content type="html"><![CDATA[<ul>
 <li><p>主讲：<a href="http://blog.tomsheep.net/about" title="tomsheep">tomsheep</a></p></li>
 <li><p>音频下载：<a href="https://docs.google.com/file/d/0ByaPRVM5h3fvTk5VcUZkVHVMWjg/edit?usp=sharing" title="音频下载">ci-64kbps.mp3</a></p></li>
 <li><p>PPT下载：<a href="https://docs.google.com/presentation/d/1fDL5RCWEibqepy1Zo1yrzaofi-umYV1p-Tz8_HPms8g/edit?usp=sharing" title="PPT下载">《迦陵说词讲稿》读书分享.pptx</a></p></li>
@@ -741,154 +461,7 @@ PPT下载：简明日本文化介绍.pptx
 <p>第三点，是关于艺术的流行与时代的关系。艺术是表达人内心情感的工具。随着时代的发展，人们表达自己情感的方式在不停的演进，从诗经、乐府到唐诗、宋词、元曲，再到现代诗，每一个时代的人都找出更适合自己表达的艺术形式。并不一定说这种演进是对传统的背叛，也不是说哪门艺术是高雅的，哪门是低俗的。就像过去清中期京剧流行的时候大家认为昆曲是雅的，京剧是俗的，但现在呢，又认为京剧是雅的，流行音乐是俗的。说的好像哪门艺术没人听快死掉了，那它就是雅的一样。一门艺术的流行是因为它在表达能力上迎合了这个时代人主流的需求，没落的艺术自然各有自己独特的美，但没有必要所谓刻意去“挽救”、去“拯救”的必要，而且我也丝毫不认为他们会死去。他们会在喜欢他们的人群里活的很好，相信长尾的力量。</p>
 
 <p>(THE END)</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/08/15/jp-culture/"><第6期>简明日本文化介绍（时代&和服）</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/08/09/credit-card/"><第5期>银行卡上的中国大学们</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/08/02/heuristics/"><番外篇-2>直觉的偏见</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/07/21/dream/"><第4期>梦</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/07/15/paradox-of-chioce/"><第3期>选择的悖论</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/girls-and-gays">@girls-and-gays</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'girls-and-gays',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - G&G -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'girls-and-gays';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-<script>
-function addBlankTargetForLinks () {
-  $('a[href^="http"]').each(function(){
-      $(this).attr('target', '_blank');
-  });
-}
-
-$(document).bind('DOMNodeInserted', function(event) {
-  addBlankTargetForLinks();
-});
-</script>
-
-
-</body>
-</html>
+</feed>
